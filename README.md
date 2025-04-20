@@ -20,7 +20,7 @@ Table Tales is organized into four delicious sections, each highlighting unique 
 - **WordPress** – CMS backbone  
 - **Elementor** – Drag-and-drop page builder  
 - **Astra Theme** – Lightweight, customizable theme 
-
+- **Canva** - Effortless visual content creation tool
 ---
 
 ## ✨ Key Features
