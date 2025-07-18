@@ -35,3 +35,9 @@ Table Tales is organized into four delicious sections, each highlighting unique 
 ## 🌐 Live Website & Hosting
 - 🔗 [Visit Table Tales](https://tabletales.infinityfreeapp.com/)
 - 🚀 **Hosted on:** InfinityFree – free, fast WordPress hosting
+
+---
+
+## Screenshots
+
+<img width="1755" height="6568" alt="image" src="https://github.com/user-attachments/assets/498180c4-26cd-4bd1-bc59-8e1c70a6ed12" />
